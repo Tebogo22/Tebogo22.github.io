@@ -1,0 +1,23 @@
+.textColor{
+	color: rgb(29,145,195);
+	background-color: rgb(29,145,195);
+}
+
+.phone-color{
+	background-color: rgb(29,145,195);
+}
+
+.numberdesign{
+	border: solid 1px rgb(29,145,195);
+	color:  rgb(29,145,195);
+}
+
+.beginhover{
+	border: solid 1px rgb(29,145,195);
+	background-color:  rgb(4,5,0);
+}
+
+.beginhover:hover{
+	color: rgb(29,145,195);
+	background-color: whitesmoke;
+}
